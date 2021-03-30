@@ -1,1 +1,0 @@
-An elf, broad of shoulder and strong of head. The finery she drapes herself in betrays the strict rules she maintains with her Keepers, though you can never say she isn't fair. She is the quartermaster on the [[Final Rights]].  A better second in command, no captain could ask for. In all matters outside of combat, the quartermaster can veto the captain's orders
