@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7fa95e838f37b9",
+        "id": "0d3d9a47f5f81f89",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hamish.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hamish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +90,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Hamish.md",
-    "Jovie.md",
-    "Hardisty.md",
-    "Final Rights.md",
-    "Fenni.md",
-    "Captian Cervantez.md",
+    "Player Characters/Zinfir.md",
+    "Player Characters/Fenni.md",
+    "Player Characters/Hardisty.md",
     "Blink Dogs.md",
-    "Alex.md",
-    "Mercy.md",
-    "Kiyeron.md"
+    "Feywilds.md",
+    "Final Rights.md",
+    "Untitled.md",
+    "README.md",
+    "Hardisty.md",
+    "Bha'hazet.md"
   ]
 }
