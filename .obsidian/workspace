@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "1db8dfbb901ba0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7fa95e838f37b9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hamish.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d79272797e1c087",
+    "type": "split",
+    "children": [
+      {
+        "id": "761a04d765f5f623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "084feaa637e7deb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22606fbfcad61df5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cf432e18c78f36a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c06679fce8df13b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b731a1cf0729f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de273b7a4c62d5f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hamish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Hamish.md",
+    "Jovie.md",
+    "Hardisty.md",
+    "Final Rights.md",
+    "Fenni.md",
+    "Captian Cervantez.md",
+    "Blink Dogs.md",
+    "Alex.md",
+    "Mercy.md",
+    "Kiyeron.md"
+  ]
+}
