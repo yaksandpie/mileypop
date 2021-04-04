@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Moya.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Moya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Moya.md",
+    "Final Rights.md",
+    "Feywilds.md",
+    "Blink Dogs.md",
+    "README.md",
     "Player Characters/Zinfir.md",
     "Player Characters/Fenni.md",
     "Player Characters/Hardisty.md",
-    "Blink Dogs.md",
-    "Feywilds.md",
-    "Final Rights.md",
     "Untitled.md",
-    "README.md",
-    "Hardisty.md",
-    "Bha'hazet.md"
+    "Hardisty.md"
   ]
 }

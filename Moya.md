@@ -1,3 +1,3 @@
-Works for the [[Final Rights]].
+Psychopomp, guiding light, guides souls to what's next.
 
 ![[Moya.png]]
