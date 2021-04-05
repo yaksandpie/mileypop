@@ -1,1 +1,0 @@
-Lead engineer on the [[Final Rights]]. He's a thin, bald gnome.

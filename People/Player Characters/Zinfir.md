@@ -1,6 +1,6 @@
 
 ### General 
-Works on the [[Final Rights]] under [[Kiyeron]] in command alongside [[Fenni]]. 
+Works on the [[Final Rites]] under [[Kiyeron]] in command alongside [[Fenni]]. 
 
 Doesn't appear to remember much about her background, but has shared that she worked a ship. When asked what position she filled, she struggled to come up with an answer—at first she said "medic", but quickly backtracked and said "navigator."
 

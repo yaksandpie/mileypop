@@ -1,1 +1,0 @@
-The captain of the [[Final Rights]]. He wears a trenchcoat. 

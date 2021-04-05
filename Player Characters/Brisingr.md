@@ -1,1 +1,0 @@
-Works on the [[Final Rights]]. He works under [[Jovie]] in Concierge.

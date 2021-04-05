@@ -1,0 +1,1 @@
+Lichlord, also known as the Remnant. Originally an elf, now immortal.
