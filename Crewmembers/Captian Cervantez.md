@@ -1,1 +1,1 @@
-The captain of the [[Final Rights]]. He wears a trenchcoat. 
+The captain of the [[Final Rites]]. He wears a trenchcoat. 

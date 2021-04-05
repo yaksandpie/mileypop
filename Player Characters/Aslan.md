@@ -1,1 +1,1 @@
-Works on the [[Final Rights]]. 
+Works on the [[Final Rites]]. 

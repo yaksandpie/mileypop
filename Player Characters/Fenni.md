@@ -10,8 +10,8 @@ Fenni also understood that this village was quite poor and always struggled to p
 
 Flickers of life. He remembers other flickers join him. At the time nameless but now known as [[Aslan]], [[Brisingr]], [[Hardisty]], and [[Zinfir]].
 
-[[Moya]] rescued them and negotiated for their employment on the [[Final Rights]]. He works under [[Kiyeron]] in command, along with [[Zinfir]].
+[[Moya]] rescued them and negotiated for their employment on the [[Final Rites]]. He works under [[Kiyeron]] in command, along with [[Zinfir]].
 
-When the [[Final Rights]] ran out of plane shard energy, Fenni and his group were tasked with finding some chaos energy in [[Limbo]]. There, they became friends with a group of [[Gith]]. 
+When the [[Final Rites]] ran out of plane shard energy, Fenni and his group were tasked with finding some chaos energy in [[Limbo]]. There, they became friends with a group of [[Gith]]. 
 
 ![[Fenni.png]]

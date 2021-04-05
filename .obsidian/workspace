@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moya.md",
-            "mode": "source"
+            "file": "Crewmembers/Nowhere.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moya.md",
+                "file": "Crewmembers/Nowhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Moya.md",
-    "Final Rights.md",
-    "Feywilds.md",
-    "Blink Dogs.md",
-    "README.md",
-    "Player Characters/Zinfir.md",
-    "Player Characters/Fenni.md",
-    "Player Characters/Hardisty.md",
-    "Untitled.md",
-    "Hardisty.md"
+    "Crewmembers/Nowhere.md",
+    "Passengers/Lady Nakeeja.md",
+    "Passengers/Poetry.md",
+    "images/7bb9922e5106c7e08d433293a5ad5eba.png",
+    "Planes/Beastlands.md",
+    "Planes/Untitled.md",
+    "Randoms/Lord Balelorn.md",
+    "Crewmembers/Mercy.md",
+    "Randoms/Untitled.md",
+    "Final Rites.md"
   ]
 }

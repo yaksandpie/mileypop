@@ -1,1 +1,1 @@
-Works on the [[Final Rights]].  He works under [[Jovie]] in Concierge.
+Works on the [[Final Rites]].  He works under [[Jovie]] in Concierge.
