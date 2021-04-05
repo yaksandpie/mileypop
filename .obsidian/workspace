@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3d9a47f5f81f89",
+        "id": "88edf6bbc877a7b0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moya.md",
-            "mode": "source"
+            "file": "Poetry.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moya.md",
+                "file": "Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Moya.md",
-    "Final Rights.md",
-    "Feywilds.md",
-    "Blink Dogs.md",
-    "README.md",
-    "Player Characters/Zinfir.md",
-    "Player Characters/Fenni.md",
-    "Player Characters/Hardisty.md",
+    "Poetry.md",
+    "Wander.md",
+    "Aldrean.md",
+    "Gilna.md",
     "Untitled.md",
-    "Hardisty.md"
+    "Lady Nikija.md",
+    "Crewmembers/Jovie.md",
+    "Feywilds.md",
+    "Avandra.md",
+    "Final Rights.md"
   ]
 }
