@@ -1,7 +1,12 @@
-Teifling, soul promised to an undying member of the realm, [[Lord Balelorn]]. Only recently became aware.
+she/her. A Tiefling Bard that we were tasked with picking up. Her soul was promised to an undying member of the group. She was found in [[Wander]] at the local gambling fun den.
 
-A bit of a card.
+Soul promised to an undying member of the realm, [[Lord Balelorn]].
 
-Worshipped a goddes named Avandra, goddess of luck and mischief and piracy (Our Lady of Luck).
+Worshipped a goddess named [[Avandra]], goddess of luck and mischief and piracy (Our Lady of Luck).
 
-![[Poetry.jpg]]
+
+Asked for a spicy drink from Bell Keep.
+
+She was killed by a weretiger.
+
+![[Poetry.png]]

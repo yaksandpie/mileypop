@@ -1,1 +1,1 @@
-Lead engineer on the [[Final Rights]]. He's a thin, bald gnome.
+Lead engineer on the [[Final Rites]]. He's a thin, bald gnome.
