@@ -2,6 +2,9 @@ A "steam" powered, gambling-style ferry on the [[River Styx]]. [[Captian Cervant
 
 In order to move between the planes, it needs to have a "shard" of the primal energy source. For example, a Chaos crystal for the plane of Limbo. These very seldomly break.
 
+Aesthetics: Hot Topic Mardi Gras. Obsidian exterior with multicolored stained glass cathedral-like windows.
+
+
 Has rowboats for going off ship and finding these shards. The rowboats are equipped with:
 - Compass with runes and an empty vial attached. Putting a piece something in the vial will make the compass point towards the original thing.
 - A single vial of red potion.

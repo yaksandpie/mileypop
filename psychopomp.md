@@ -1,0 +1,1 @@
+A spiritual guide of souls to the place of the dead.

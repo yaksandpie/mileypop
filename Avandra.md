@@ -1,0 +1,1 @@
+Goddess in dealings with the sea. "Our Lady Luck".
